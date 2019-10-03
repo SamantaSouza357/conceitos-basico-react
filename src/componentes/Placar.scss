@@ -1,0 +1,17 @@
+.Placar{
+    width: 350px;
+    height: 350px;
+    border: 1px solid rgb(13, 13, 14);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:blueviolet;
+    flex-direction: column;
+    h1{
+        color:aquamarine;
+        font-size: 35px;
+    }
+    h2{
+        color:black;
+    }
+}
